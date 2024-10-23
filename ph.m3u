@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DreamstarTV.ph" tvg-logo="https://i.imgur.com/TltPHDk.png" group-title="Music",Dreamstar TV (720p) [Not 24/7]
+https://ssh101-fl.bozztv.com/ssh101/dreamstartvnew/index.m3u8
+#EXTINF:-1 tvg-id="MyxPhilippines.ph" tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="Music",MYX Philippines (720p)
+https://myxnola-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-id="A2Z.ph" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="General",A2Z [Not 24/7]
+https://wag.ika.lat/stream/944313137​
+#EXTINF:-1 tvg-id="GMATV.ph" tvg-logo="https://i.imgur.com/uAqFMLy.png" group-title="General",GMA TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
+#EXTINF:-1 tvg-id="DZBBDT1.ph" tvg-logo="https://i.imgur.com/5GXTkZx.png" group-title="General",Super Radyo DZBB (720p) [Not 24/7]
+https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="UNTV.ph" tvg-logo="https://i.imgur.com/gFcpYSJ.png" group-title="General",UNTV (2160p) [Not 24/7]
+https://ythls.armelin.one/channel/UC3XaG-7UVi2vD8ZZEMNnnpw.m3u8
+#EXTINF:-1 tvg-id="ANC.ph" tvg-logo="https://i.imgur.com/odwRbRk.png" group-title="News",ANC (720p)
+https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News Asia Pacific (720p)
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1 tvg-id="DZRHNewsTV.ph" tvg-logo="https://i.imgur.com/qe1QqZh.png" group-title="News",DZRH News TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
+#EXTINF:-1 tvg-id="PTV4.ph" tvg-logo="https://i.imgur.com/T3jDOEq.png" group-title="News",PTV 4 (480p) [Not 24/7]
+https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
+#EXTINF:-1 tvg-id="CineMo.ph" tvg-logo="https://i.imgur.com/rGAOD3f.png" group-title="Movies",Cine Mo! (720p)
+https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CinemaOne.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" group-title="Movies",Cinema One (1080p)
+https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="Movies",CinemaWorld (576p)
+http://210.210.155.37/dr9445/h/h04/index.m3u8
+#EXTINF:-1 tvg-id="HBOAsiaHD.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO (1080p) [Geo-blocked]
+https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
+#EXTINF:-1 tvg-id="tvNMoviesAsia.hk" tvg-logo="https://i.imgur.com/c4XvwO2.png" group-title="Movies",tvN Movies (Indonesian Subtitle) (576p)
+http://210.210.155.37/dr9445/h/h21/index.m3u8
+#EXTINF:-1 tvg-id="DepEdTV.ph" tvg-logo="https://i.imgur.com/3BiY6mI.png" group-title="Education",DepEd TV (480p) [Geo-blocked]
+https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/playlist.m3u8
+#EXTINF:-1 tvg-id="Net25.ph" tvg-logo="https://i.imgur.com/pPPubX5.png" group-title="Undefined",NET 25 (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UC5IF8NlxMW1GkEUUqWJJBIw.m3u8
+#EXTINF:-1 tvg-id="PTV.ph" tvg-logo="https://i.imgur.com/MMccHNd.png" group-title="Undefined",PTV (720p) [Not 24/7]
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/PTV.m3u8
+#EXTINF:-1 tvg-id="TeleRadyo.ph" tvg-logo="https://i.imgur.com/fTYOu5k.png" group-title="Undefined",TeleRadyo (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCs_VNu-FQ0WcJnD4QkmIL5w.m3u8
+#EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://i.imgur.com/PYJhTiq.png" group-title="Undefined",TV5 (1080p) [Not 24/7]
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
+#EXTINF:-1 tvg-id="ZarokTV.iq" tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="Animation;Education;Family;Kids;Music",Zarok TV Sorani (720p)
+https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1 group-title="All",TV5 HD
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
+#EXTINF:-1 group-title="All",One News
+https://bit.ly/3V39Bce
+#EXTINF:-1 group-title="All",Super Radyo DZBB
+https://tinyurl.com/RadyoDZBB
+#EXTINF:-1 group-title="All",Cartoon Network Southeast Asia (1080p)
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 group-title="All",Cinema One (1080p)
+https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 group-title="All",RAKUTEN TV FAMILY
+https://rakuten-family-1-eu.rakuten.wurl.tv/2000.m3u8
+#EXTINF:-1 group-title="All",RAKUTEN TV ACTION MOVIES
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/2000.m3u8
+#EXTINF:-1 group-title="All",SONY MOVIES
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 group-title="All",CINEMO!
+https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 group-title="All",ASIAN CRUSH
+https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/cb543d1b796c668c84cb3f62cef049a2f9421fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7756db80148e782a8eb3dc68306d390ec90c1fbcbf5ba0f8ff5e43ca78a3b51a4b902910e39f429d8118a681d50ec85e8f25f4118095a1d88017d38f9437f852b7061632571541527ee9ab6d9e98f15931957d21560e5ce8a6808c2156e466702c337b56dd1f9b32dd8024fb115f7bc49f3def019f6eb006a9a16da9b9a29d3529c64c6f381345f0b5dae6d63027af69bb8fe8d37a7098bc721223983c89737979f897ba896357ae21976ea5cdecad7a7b0867a5bdf8e8cea3844bd308cbc9fd943c789c026e16ab52b89361d728922de69e53696b444aa99542d7c6f76a70331fc8d005942412b78ddfd89f166d9e295b7bf870d55e3269ce1f6568aa78aacd723fdf6642ae1d09d67479c04ef5b329b580dee60d34fc9ee44aed60e2b04583a756e73d720c55e0a7620e1c153de3ef600c22708c10b78484b2217b75869dfaf7ce5737102a57035cf985c944dbdf90674d6c823940477b1f109a01ac19fc085b0f23cc5e9eec3e7d8b022e3af5e558795f7f9ddcbe918db59b12e767b2a90e151a88cffbf5d1232a4e5e745aa3/162/1280x720_3329040/index.m3u8?
+#EXTINF:-1 group-title="All",TeleRadyo Serbisyo
+https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 group-title="All",Travel Channel
+https://dplus.gammacdn.workers.dev/videos/110.m3u8
+#EXTINF:-1 group-title="All",Cartoonito HD
+https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
+#EXTINF:-1 group-title="All",Arirang
+https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="All",ALJAZEERA
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 group-title="All",KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 group-title="All",TV5 MONDE Asie
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+#EXTINF:-1 group-title="All",TV5 MONDE Style
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+#EXTINF:-1 group-title="All",NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 group-title="All",Bloomberg
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 group-title="All",BBC World News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="All",Asian Crush
+https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+#EXTINF:-1 group-title="All",Animal Planet
+https://dplus.gammacdn.workers.dev/videos/99.m3u8
+#EXTINF:-1 group-title="All",Action!!!
+https://bec-action-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="All",TFC GUAM
+https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 group-title="All",RTBS PRIME
+https://glb.bozztv.com/glb/ssh101/primetvph/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="All",NHERS TELEVISION
+https://glb.bozztv.com/glb/ssh101/jomarhost/tracks-v1a1/mono.m3u8
