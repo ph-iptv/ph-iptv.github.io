@@ -33,6 +33,8 @@ https://ythls.armelin.one/channel/UCs_VNu-FQ0WcJnD4QkmIL5w.m3u8
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5zqRBOHKd37mhZUkuFfSEe2nriWIWVsKXmw&s" group-title="News",One News
 https://bit.ly/3V39Bce
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One news HD (C)" tvg-logo="" group-title="PHILIPPINES",PH One news HD (C)
+http://starshare.live:8080/live/Mike1/Mike2/150980.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/DZBB594.svg/500px-DZBB594.svg.png" group-title="News",Super Radyo DZBB
 https://tinyurl.com/RadyoDZBB
 #EXTINF:-1 group-title="News",TeleRadyo Serbisyo
