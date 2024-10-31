@@ -9,6 +9,8 @@ https://wag.ika.lat/stream/944313137Ã¢ÂÂ
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 #EXTINF:-1 tvg-id="GMATV.ph" tvg-logo="https://i.imgur.com/uAqFMLy.png" group-title="News",GMA TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
+#EXTINF:-1 tvg-id="GTV.ph" tvg-logo="https://i.imgur.com/txozMGM.png" tvg-name="GTV.ph" group-title="All",GTV
+https://wag.ika.lat/stream/872206966
 #EXTINF:-1 tvg-id="DZBBDT1.ph" tvg-logo="https://i.imgur.com/5GXTkZx.png" group-title="News",Super Radyo DZBB
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Cnn.Hd.ph" tvg-name="CNN International" tvg-logo="https://i.imgur.com/qDoqaeW.png" group-title="News",CNN International
@@ -35,6 +37,10 @@ https://bit.ly/3V39Bce
 https://tinyurl.com/RadyoDZBB
 #EXTINF:-1 group-title="News",TeleRadyo Serbisyo
 https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 tvg-id="Channelnews.Asia.ph" tvg-logo="https://i.imgur.com/NWP3n1k.png" tvg-name="CNA" group-title="All",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id="TLC.ph" tvg-logo="https://i.imgur.com/l19wTL4.png" tvg-name="TLC" group-title="All",TLC
+https://varun-iptv.netlify.app/m3u/TLC.m3u8
 #EXTINF:-1 group-title="News",Arirang
 https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="News",ALJAZEERA
@@ -43,6 +49,16 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 group-title="News",BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="OUTDOORCHANNEL.ph" tvg-logo="https://i.imgur.com/9e7jPnn.png" tvg-name="Outdoor Channel" group-title="All",Outdoor Channel
+https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="Travel.Channel.ph" tvg-logo="https://i.imgur.com/sojhfxX.png" tvg-name="Travel Channel" group-title="All",Travel Channel
+https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
+#EXTINF:-1 tvg-id="Redbull.Dummy.us" tvg-logo="https://imgur.com/ZkElXDv.png" tvg-name="Redbull TV" group-title="All",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://imgur.com/mImCDrc.png" tvg-name="Fish TV" group-title="All",Fish TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wired2fish/playlist.m3u8
+#EXTINF:-1 tvg-id="Foodnetwork.Hd.ph" tvg-logo="https://i.imgur.com/EXC1yRz.png" tvg-name="Food Network" group-title="All",Food Network
+https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
 #EXTINF:-1 tvg-id="DreamstarTV.ph" tvg-logo="https://i.imgur.com/TltPHDk.png" group-title="All",Dreamstar TV (720p) [Not 24/7]
 https://ssh101-fl.bozztv.com/ssh101/dreamstartvnew/index.m3u8
 #EXTINF:-1 tvg-id="ZarokTV.iq" tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="All",Zarok TV Sorani (720p)
