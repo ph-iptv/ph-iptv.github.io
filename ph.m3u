@@ -131,5 +131,3 @@ https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CinemaOne.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" group-title="Movies",Cinema One (1080p)
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
-#EXTINF:-1 tvg-id="DepEdTV.ph" tvg-logo="https://i.imgur.com/3BiY6mI.png" group-title="Education",DepEd TV (480p) [Geo-blocked]
-https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/playlist.m3u8
