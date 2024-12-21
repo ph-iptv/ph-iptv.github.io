@@ -1,9 +1,7 @@
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvradioschedules/images/4/4c/Kapamilya_Channel_Logo_2020.png" group-title="News",Kapamilya Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
+#EXTM3U
+#EXTINF:34 group-title="News",Kapamilya Channel YT
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1734842260/ei/NENnZ8CDGse12roPguPiiAQ/ip/158.62.36.201/id/9SG4BMEYqWY.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/ph/siu/1/spc/x-caUDSTrq2wOOoPmC0G2yE1qltMKcdxjQRXgq9vhwN_ohNUxih0rgTySpp3gVpfeuEsfcNgllp9/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAODTvWlG80CPILEB_CqKTecxhpnlDg6NRwCnjjpEdYJWAiB5f4d4hlQjCSVfUxZrr2rCN1JWSwx3b-V8rDYf3dX-tA%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="GMATV.ph" tvg-logo="https://i.imgur.com/uAqFMLy.png" group-title="News",GMA TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
 #EXTINF:-1 tvg-id="GTV.ph" tvg-logo="https://i.imgur.com/txozMGM.png" tvg-name="GTV.ph" group-title="All",GTV
