@@ -82,10 +82,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wired2fish/playlist.m3u8
 #EXTINF:-1 tvg-id="Foodnetwork.Hd.ph" tvg-logo="https://i.imgur.com/EXC1yRz.png" tvg-name="Food Network" group-title="All",Food Network
 https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
-#EXTINF:-1 tvg-id="DreamstarTV.ph" tvg-logo="https://i.imgur.com/TltPHDk.png" group-title="All",Dreamstar TV (720p) [Not 24/7]
-https://ssh101-fl.bozztv.com/ssh101/dreamstartvnew/index.m3u8
-#EXTINF:-1 tvg-id="ZarokTV.iq" tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="All",Zarok TV Sorani (720p)
-https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 group-title="All",Cartoon Network Southeast Asia (1080p)
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 group-title="All",RAKUTEN TV FAMILY
@@ -110,12 +106,6 @@ https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/am
 https://dplus.gammacdn.workers.dev/videos/99.m3u8
 #EXTINF:-1 group-title="All",Action!!!
 https://bec-action-1-us.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="All",TFC GUAM
-https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
-#EXTINF:-1 group-title="All",RTBS PRIME
-https://glb.bozztv.com/glb/ssh101/primetvph/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="All",NHERS TELEVISION
-https://glb.bozztv.com/glb/ssh101/jomarhost/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kdrama",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1NY-pBGIzstQmmewM86PYNO9rn-OLhhczWw&s" group-title="Kdrama",SBS
