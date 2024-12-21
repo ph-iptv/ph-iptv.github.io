@@ -1,6 +1,3 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="A2Z.ph" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="News",A2Z [Not 24/7]
-https://wag.ika.lat/stream/944313137Ã¢ÂÂ
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvradioschedules/images/4/4c/Kapamilya_Channel_Logo_2020.png" group-title="News",Kapamilya Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -9,8 +6,6 @@ https://wag.ika.lat/stream/944313137Ã¢ÂÂ
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 #EXTINF:-1 tvg-id="GMATV.ph" tvg-logo="https://i.imgur.com/uAqFMLy.png" group-title="News",GMA TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvradioschedules/images/4/4c/Kapamilya_Channel_Logo_2020.png" tvg-name="" group-title="All",Kapamilya Channel SD 
-https://meowmeowphc.blogspot.com/kchcignal.m3u8
 #EXTINF:-1 tvg-id="GTV.ph" tvg-logo="https://i.imgur.com/txozMGM.png" tvg-name="GTV.ph" group-title="All",GTV
 https://wag.ika.lat/stream/872206966
 #EXTINF:-1 tvg-id="DZBBDT1.ph" tvg-logo="https://i.imgur.com/5GXTkZx.png" group-title="News",Super Radyo DZBB
